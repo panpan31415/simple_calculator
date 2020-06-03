@@ -1,5 +1,5 @@
 {
-  "name": "simple_calculator",
+  "name": "@panpan31415/simple_calculator",
   "version": "1.0.0",
   "description": "a simple version of calculator",
   "main": "index.js",
@@ -17,6 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/panpan31415/simple_calculator.git"
-  }
+    "url": "git+https://github.com/panpan31415/simple_calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/panpan31415/simple_calculator/issues"
+  },
+  "homepage": "https://github.com/panpan31415/simple_calculator#readme",
+  "dependencies": {}
 }
