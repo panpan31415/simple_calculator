@@ -2,9 +2,11 @@
   "name": "@panpan31415/simple_calculator",
   "version": "1.0.0",
   "description": "a simple version of calculator",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests",
+    "build": "tsc"
   },
   "author": "panpan31415@gmail.com",
   "license": "ISC",
